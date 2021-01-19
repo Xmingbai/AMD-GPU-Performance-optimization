@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)</key>
+	<dict>
+		<key>@0,name</key>
+		<string>ATY,Orinoco</string>
+		<key>@1,name</key>
+		<string>ATY,Orinoco</string>
+		<key>@2,name</key>
+		<string>ATY,Orinoco</string>
+		<key>@3,name</key>
+		<string>ATY,Orinoco</string>
+		<key>device_type</key>
+		<string>ATY,OrinocoParent</string>
+		<key>AAPL00,DualLink</key>
+		<data>AQAAAA==</data>
+		<key>ATY,Card#</key>
+		<string>113-D0001A1L-025</string>
+		<key>ATY,Copyright</key>
+		<string>Copyright AMD Inc. All Rights Reserved. 2005-2019</string>
+		<key>ATY,DeviceName</key>
+		<string>570</string>
+		<key>ATY,EFIVersion</key>
+		<string>01.00.931</string>
+		<key>ATY,FamilyName</key>
+		<string>Radeon Pro</string>
+		<key>ATY,Rom#</key>
+		<string>113-D000AA-931</string>
+		<key>hda-gfx</key>
+		<string>onboard-1</string>
+		<key>model</key>
+		<string>AMD Radeon Pro 570</string>
+	</dict>
+</dict>
+</plist>
