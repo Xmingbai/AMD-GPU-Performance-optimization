@@ -7,7 +7,7 @@ RX 590
 
 Vega 56/64
 
-redaeom VII
+radeon VII
 
 RX 5500 XT
 RX 5600 XT
