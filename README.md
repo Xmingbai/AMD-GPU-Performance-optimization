@@ -9,8 +9,8 @@ https://www.bilibili.com/video/BV1S54y1U7Ga
 
 支持显卡型号
 RX 570
-RX 580
-RX 590 
+
+RX 580 & RX 590 
 
 Vega 56/64
 
